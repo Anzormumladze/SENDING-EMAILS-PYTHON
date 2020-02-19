@@ -3,7 +3,7 @@
 import smtplib
 
 email = 'pythonmail6662@gmail.com' # Your email
-password = 'Bubu-_123456' # Your email account password
+password = '' # Your email account password
 send_to_email = 'anzor.mumladze.1@btu.edu.ge' # Who you are sending the message to
 message = 'This is my message' # The message in the email
 
